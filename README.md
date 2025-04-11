@@ -1,8 +1,8 @@
 # arduinoCarCL
 
 
-Things used in this project
-Hardware components
+***Things used in this project
+Hardware components***
 
 · ARDUINO UNO
 
@@ -27,7 +27,7 @@ Hardware components
 
 
 
-SOFTWARE COMPONENTS
+***SOFTWARE COMPONENTS***
 
 · ARDUINO IDE
 
@@ -41,7 +41,7 @@ Hand tools
 · Glue Gun
 
 
-How Arduino Bluetooth Controlled Car Works?
+***How Arduino Bluetooth Controlled Car Works?***
 
 This is a simple Micro-controller based car. The Micro-Controller is connected to the car. The Arduino is doing all this job. For receiving data wirelessly we are using the HC-05 Bluetooth module.
 
@@ -53,7 +53,7 @@ In the Same way, F, B, L, R are used for moving the car Forward, Backward, Left,
 
 
 
-Now I had to upload the code to the Arduino UNO.So I have attached the USB cable that comes with the Arduino UNO board and follows the steps mentioned below
+***Now I had to upload the code to the Arduino UNO.So I have attached the USB cable that comes with the Arduino UNO board and follows the steps mentioned below***
 
 · Open Arduino IDE on your PC
 
@@ -66,6 +66,8 @@ Now I had to upload the code to the Arduino UNO.So I have attached the USB cable
 · Go to Tools > Port > Select proper COM port
 
 · Now Verify the code and then upload it
+
+
 
 ***Please don’t forget to remove/detach the HC-05 Bluetooth Module before uploading the code. Connect it after the code has been uploaded successfully.***
 
