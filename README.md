@@ -32,7 +32,7 @@ Hardware components***
 · ARDUINO IDE
 
 
-Hand tools
+***Hand tools***
 
 · Soldering iron
 
